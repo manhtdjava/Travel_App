@@ -13,6 +13,7 @@ import PopularList from "./Country/PopularList";
 import HotelMap from "./Hotel/HotelMap";
 import ReviewList from "./Hotel/ReviewList";
 import ReviewTle from "./Titles/Reviews/ReviewTle";
+import ProfileTitle from "./Reusable/ProfileTitle";
 export {
 
     ReusableText,
@@ -28,5 +29,6 @@ export {
     PopularList,
     HotelMap,
     ReviewTle,
-    ReviewList
+    ReviewList,
+    ProfileTitle
 }
