@@ -7,7 +7,7 @@ const TopInfo = ({ navigation }) => {
         <View style={{ margin: 20 }}>
             <ProfileTitle title={"Personal Information"} icon={'user'} />
             <ProfileTitle title={"Payments"} icon={'creditcard'} />
-            <ProfileTitle title={"Settings"} icon={'setting'} onPress={() => navigation.navigate('')} />
+            <ProfileTitle title={"Settings"} icon={'setting'} onPress={() => navigation.navigate('Settings')} />
         </View>
     )
 }

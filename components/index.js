@@ -14,6 +14,9 @@ import HotelMap from "./Hotel/HotelMap";
 import ReviewList from "./Hotel/ReviewList";
 import ReviewTle from "./Titles/Reviews/ReviewTle";
 import ProfileTitle from "./Reusable/ProfileTitle";
+import SettingTile from "./Settings/SettingTile";
+import AssetImage from "./Chat/AssetImage";
+import Counter from "./Reusable/Counter";
 export {
 
     ReusableText,
@@ -30,5 +33,7 @@ export {
     HotelMap,
     ReviewTle,
     ReviewList,
-    ProfileTitle
+    ProfileTitle,
+    SettingTile,
+    AssetImage, Counter
 }

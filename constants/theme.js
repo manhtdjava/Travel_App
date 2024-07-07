@@ -12,7 +12,7 @@ export const COLORS = {
     lightRed: "#EB9C9B",
     lightGreen: "#73ADA1",
     black: "#121212",
-    dark: "#3D3A45",
+    dark: "#3d3a45",
     gray: "#8C8896",
     lightGrey: "#D1CFD5"
 };
